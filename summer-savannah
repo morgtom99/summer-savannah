@@ -1,0 +1,59 @@
+{
+  "id": "theme-summer-savannah",
+  "title": "Summer Savannah",
+  "description": "A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.",
+  "seedPalette": [
+    "#f1c40f",
+    "#f39c12",
+    "#e67e22",
+    "#d35400",
+    "#c0392b",
+    "#e59866",
+    "#f4d03f"
+  ],
+  "colorConcepts": [
+    [
+      "sun",
+      "acacia",
+      "grass"
+    ],
+    [
+      "dust",
+      "horizon",
+      "plain"
+    ],
+    [
+      "heat",
+      "wildlife",
+      "blaze"
+    ],
+    [
+      "bark",
+      "baobab",
+      "flame"
+    ],
+    [
+      "clay",
+      "soil",
+      "sunset"
+    ],
+    [
+      "dry",
+      "riverbed",
+      "canyon"
+    ],
+    [
+      "cheetah",
+      "lion",
+      "light"
+    ]
+  ],
+  "primary": "40 80% 50%",
+  "background": "30 15% 15%",
+  "accent": "30 15% 25%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "loose"
+  }
+}
