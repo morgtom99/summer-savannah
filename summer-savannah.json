@@ -54,10 +54,11 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "abstract",
-    "detail": "loose"
+    "detail": "loose",
+    "dimension": "3d",
+    "lighting": "ambient"
   },
   "repository": "summer-savannah",
   "owner": "morgtom99",
-  "basePath": "",
-  "branch": ""
+  "branch": "main"
 }
