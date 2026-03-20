@@ -70,5 +70,42 @@
     "",
     "",
     ""
+  ],
+  "conceptPrompts": [
+    [
+      "[Subject: SUN]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f1c40f.",
+      "[Subject: ACACIA]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f1c40f.",
+      "[Subject: GRASS]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f1c40f."
+    ],
+    [
+      "[Subject: DUST]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f39c12.",
+      "[Subject: HORIZON]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f39c12.",
+      "[Subject: PLAIN]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f39c12."
+    ],
+    [
+      "[Subject: HEAT]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e67e22.",
+      "[Subject: WILDLIFE]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e67e22.",
+      "[Subject: BLAZE]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e67e22."
+    ],
+    [
+      "[Subject: BARK]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #d35400.",
+      "[Subject: BAOBAB]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #d35400.",
+      "[Subject: FLAME]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #d35400."
+    ],
+    [
+      "[Subject: CLAY]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #c0392b.",
+      "[Subject: SOIL]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #c0392b.",
+      "[Subject: SUNSET]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #c0392b."
+    ],
+    [
+      "[Subject: DRY]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e59866.",
+      "[Subject: RIVERBED]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e59866.",
+      "[Subject: CANYON]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #e59866."
+    ],
+    [
+      "[Subject: CHEETAH]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f4d03f.",
+      "[Subject: LION]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f4d03f.",
+      "[Subject: LIGHT]. A high-fidelity abstract aesthetic. Theme: Summer Savannah. Aesthetic Context: A warm and powerful palette reflecting the intense sun and rich earth of the African savannah.. Parameters: 3d dimension, ambient lighting, none texture, maximal complexity, loose level of detail. Primary color: #f4d03f."
+    ]
   ]
 }
